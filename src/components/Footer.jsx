@@ -1,6 +1,6 @@
 function Footer() {
     return(
-       <h4>Desenvolvido por <strong>Raiani Alcides</strong> </h4>
+         <h4>Desenvolvido por <a target="_blank" href="https://github.com/rayalcides">Raiani Alcides</a>  </h4>
     )
 }
 

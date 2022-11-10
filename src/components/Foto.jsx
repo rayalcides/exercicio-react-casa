@@ -1,8 +1,8 @@
-import fotofrafia from '../assets/cabelo.jpg'
 
-function Foto() {
+
+function Foto(props) {
     return(
-      <img src={fotofrafia} alt="mulher negra com o cabelo black" />
+      <img src={props.caminho} alt="mulher negra com o cabelo black" />
     )
 }
 

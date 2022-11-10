@@ -1,6 +1,6 @@
-function Subtitulo() {
+function Subtitulo(props) {
     return(
-     <h2>Fique a vontade para conhecer um pouco sobre minha historia.</h2>
+     <h2>{props.text}</h2>
     )
 }
 
