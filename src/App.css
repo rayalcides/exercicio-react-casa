@@ -8,7 +8,9 @@
 .sobre-mim{
   display: flex;
   justify-content: center;
+  border-radius: 8px;
   gap: 200px;
+  font-style: italic;
   padding: 20px;
   margin: 50px;
   background-color: rgb(213, 110, 223);
